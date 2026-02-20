@@ -71,7 +71,7 @@
 
     <!-- FOOTER -->
     <footer>
-        © 2026 Shinie Kie Avila-Dangasi |
+        © 2026 Shinie Kie Avila-Dangasi | Portfolio Website
     </footer>
 
     <!-- DARK MODE SCRIPT -->
