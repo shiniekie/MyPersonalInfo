@@ -53,6 +53,10 @@
                 <div class="label">Work:</div>
                 <div>Instructor</div>
 
+		<div class="label">Work Address:</div>
+                <div>JH Cerilles State College Pagadian-Campus, Balangasan District Pagadian City</div>
+
+
                 <div class="label">Degree:</div>
                 <div>Bachelor of Science in Information Technology</div>
 
